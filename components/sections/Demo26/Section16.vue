@@ -6,9 +6,9 @@
                 <div class="col-md-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Loved by thousands of creators and brands</h2>
+                        <h2 class="s-52 w-700">Some opinions about us
+                        </h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
                 </div>
             </div>
@@ -23,19 +23,18 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Title -->
-                                <h6 class="s-20 w-700">This is crazy...</h6>
+                                <h6 class="s-20 w-700">nnovative Research Leader</h6>
                                 <!-- Text -->
-                                <p>Quaerat sodales sapien euismod blandit aliquet ipsum primis undo and cubilia laoreet augue and luctus magna dolor luctus egestas sapien vitae</p>
+                                <p>EISPEDN is at the forefront of scientific discovery, continually pushing the boundaries of research in pediatrics, diabetes, endocrinology, and nutrition. Their innovative studies and breakthroughs significantly contribute to advancing medical knowledge and improving patient outcomes.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
                                     <div class="review-avatar">
-                                        <img src="/assets/images/review-author-1.jpg" alt="review-avatar" />
+                                        <img src="https://static.vecteezy.com/ti/vecteur-libre/p1/19495014-artiste-homme-garcon-avatar-utilisateur-personne-gens-peau-noire-style-plat-vectoriel.jpg" alt="review-avatar" />
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Scott Boxer</h6>
-                                        <p class="p-sm">@scott_boxer</p>
+                                        <h6 class="s-18 w-700">Mohamed Ahmed</h6>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -52,19 +51,18 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Title -->
-                                <h6 class="s-20 w-700">Great Flexibility!</h6>
+                                <h6 class="s-20 w-700">Exemplary Patient Care</h6>
                                 <!-- Text -->
-                                <p>At sagittis congue augue and magna ipsum vitae a purus ipsum primis diam a cubilia laoreet augue egestas luctus a donec vitae ultrice ligula magna suscipit lectus gestas augue into cubilia</p>
+                                <p>The institution is renowned for its exceptional patient care. EISPEDN's dedicated team of healthcare professionals provides compassionate and comprehensive treatment, ensuring that every patient receives the highest standard of care tailored to their individual needs.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
                                     <div class="review-avatar">
-                                        <img src="/assets/images/review-author-2.jpg" alt="review-avatar" />
+                                        <img src="https://img.freepik.com/premium-vector/person-avatar-design_24877-38131.jpg" alt="review-avatar" />
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Joel Peterson</h6>
-                                        <p class="p-sm">Internet Surfer</p>
+                                        <h6 class="s-18 w-700">Mahmoud Mostafa</h6>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -81,19 +79,18 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Title -->
-                                <h6 class="s-20 w-700">Simple and Useful!</h6>
+                                <h6 class="s-20 w-700">Educational Excellence</h6>
                                 <!-- Text -->
-                                <p>An augue cubilia laoreet magna suscipit egestas and ipsum a lectus purus ipsum primis and augue ultrice ligula and egestas a suscipit lectus gestas undo auctor tempus feugiat impedit quaerat</p>
+                                <p>EISPEDN is a hub of learning and development, offering extensive educational programs and training for medical professionals. Their commitment to education ensures that future generations of healthcare providers are well-equipped with the latest knowledge and skills to excel in their fields.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
                                     <div class="review-avatar">
-                                        <img src="/assets/images/review-author-5.jpg" alt="review-avatar" />
+                                        <img src="https://previews.123rf.com/images/yupiramos/yupiramos1603/yupiramos160301827/52896350-avatar-person-design.jpg" alt="review-avatar" />
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Jennifer Harper</h6>
-                                        <p class="p-sm">App Developer</p>
+                                        <h6 class="s-18 w-700">Abdallah Ali</h6>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -110,19 +107,18 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Title -->
-                                <h6 class="s-20 w-700">Minimalistic & Beautiful!</h6>
+                                <h6 class="s-20 w-700">Community Impact</h6>
                                 <!-- Text -->
-                                <p>Augue at vitae purus tempus egestas volutpat augue undo cubilia laoreet magna suscipit luctus dolor blandit at purus tempus feugiat impedit</p>
+                                <p>EISPEDN plays a vital role in the community by raising awareness about important health issues and promoting preventive care. Their outreach programs and initiatives have a significant positive impact, empowering individuals to lead healthier lives and fostering a culture of wellness.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
                                     <div class="review-avatar">
-                                        <img src="/assets/images/review-author-8.jpg" alt="review-avatar" />
+                                        <img src="https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180201958/94700505-young-man-avatar-character-vector-illustration-design.jpg" alt="review-avatar" />
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Evelyn Martinez</h6>
-                                        <p class="p-sm">WordPress Consultant</p>
+                                        <h6 class="s-18 w-700">Ahmed Adel</h6>
                                     </div>
                                 </div>
                                 <!-- End Author -->

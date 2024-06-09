@@ -15,16 +15,16 @@
                     <!-- DROPDOWN SUB MENU -->
                     <li aria-haspopup="true" class="mg_link" :class="{ open: isOpen[0] }">
                         <span class="wsmenu-click 123" @click="toggle(0)"><i class="wsmenu-arrow"></i></span>
-                        <NuxtLink to="#" class="h-link">Home </NuxtLink>
+                        <NuxtLink to="/" class="h-link hover:bg-blue-700 rounded">Home </NuxtLink>
                         
                     </li>
                     <!-- SIMPLE NAVIGATION LINK -->
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link">Activities</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Activities</NuxtLink></li>
                     <!-- MEGAMENU -->
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link">Gallery</NuxtLink></li>
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link">Patient Materials</NuxtLink></li>
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link">About Us</NuxtLink></li>
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link">Contact Us</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Gallery</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Patient Materials</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">About Us</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Contact Us</NuxtLink></li>
                    
                    
                 </ul>

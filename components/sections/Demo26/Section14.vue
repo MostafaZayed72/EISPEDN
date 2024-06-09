@@ -2,16 +2,7 @@
     <section id="projects-1" class="pt-100 projects-section">
         <div class="container">
             <!-- SECTION TITLE -->
-            <div class="row justify-content-center">
-                <div class="col-md-10 col-lg-9">
-                    <div class="section-title mb-80">
-                        <!-- Title -->
-                        <h2 class="s-52 w-700">Great Design That Works!</h2>
-                        <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
-                    </div>
-                </div>
-            </div>
+            
             <!-- PROJECTS WRAPPER -->
             <div class="projects-wrapper rel">
                 <div class="row align-items-center row-cols-1 row-cols-md-2">
@@ -19,12 +10,11 @@
                     <div class="col">
                         <div id="pt-1-1" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Vintage Poster</h5>
                             <!-- Image -->
-                            <div class="project-preview r-10">
+                            <div class="">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-05.jpg" alt="project-preview" />
+                                    <img class="img-fluid rounded" src="/assets/images/image4.png" alt="project-preview" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -39,12 +29,11 @@
                     <div class="col">
                         <div id="pt-1-2" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Glued Poster</h5>
                             <!-- Image -->
-                            <div class="project-preview r-10">
+                            <div class="">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-02.jpg" alt="project-preview" />
+                                    <img class="img-fluid rounded" src="/assets/images/image3.png" alt="project-preview" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -59,12 +48,11 @@
                     <div class="col">
                         <div id="pt-1-3" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Double Color</h5>
                             <!-- Image -->
-                            <div class="project-preview r-10">
+                            <div class="">
                                 <!-- Project Preview -->
-                                <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-03.jpg" alt="project-preview" />
+                                <div class="">
+                                    <img class="img-fluid rounded" src="/assets/images/image1.png" alt="project-preview" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -79,12 +67,11 @@
                     <div class="col">
                         <div id="pt-1-4" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Reativity</h5>
                             <!-- Image -->
-                            <div class="project-preview r-10">
+                            <div class="">
                                 <!-- Project Preview -->
-                                <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-04.jpg" alt="project-preview" />
+                                <div class="">
+                                    <img class="img-fluid rounded" src="/assets/images/image2.png" alt="project-preview" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -99,13 +86,7 @@
             </div>
             <!-- END PROJECTS WRAPPER -->
             <!-- MORE PROJECTS BUTTON -->
-            <div class="row">
-                <div class="col">
-                    <div class="more-projects wow fadeInUp">
-                        <NuxtLink to="/projects" class="btn btn--theme hover--tra-black">See more projects</NuxtLink>
-                    </div>
-                </div>
-            </div>
+           
         </div>
         <!-- End container -->
     </section>

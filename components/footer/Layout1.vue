@@ -6,77 +6,50 @@
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
                     <div class="footer-info">
-                        <img class="footer-logo" src="/assets/images/logo-pink.png" alt="footer-logo" />
+                        <img class="footer-logo" src="/assets/images/EISPEDN-EN-Logo.png" alt="footer-logo" />
                     </div>
                 </div>
                 <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-3 col-xl-2">
+                <div class="flex flex-col md:flex-row justify-between">
                     <div class="footer-links fl-1">
                         <!-- Title -->
-                        <h6 class="s-17 w-700">Company</h6>
+                        <NuxtLink to="/"  class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 " @click="scrollToTop()">Home</NuxtLink>
                         <!-- Links -->
-                        <ul class="foo-links clearfix">
-                            <li>
-                                <p><NuxtLink to="/about">About Us</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/blog-listing">About Us</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/reviews">Customers</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><a href="#">Community</a></p>
-                            </li>
-                        </ul>
+                       
                     </div>
-                </div>
-                <!-- END FOOTER LINKS -->
-                <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="footer-links fl-2">
+                    <div class="footer-links fl-1">
                         <!-- Title -->
-                        <h6 class="s-17 w-700">Product</h6>
+                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Activities</NuxtLink>
                         <!-- Links -->
-                        <ul class="foo-links clearfix">
-                            <li>
-                                <p><NuxtLink to="/features">Integration</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/download">What's New</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/pricing-1">Pricing</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/help-center">Help Center</NuxtLink></p>
-                            </li>
-                        </ul>
+                       
                     </div>
-                </div>
-                <!-- END FOOTER LINKS -->
-                <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-3 col-xl-2">
-                    <div class="footer-links fl-3">
+                    <div class="footer-links fl-1">
                         <!-- Title -->
-                        <h6 class="s-17 w-700">Legal</h6>
+                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Gallery</NuxtLink>
                         <!-- Links -->
-                        <ul class="foo-links clearfix">
-                            <li>
-                                <p><NuxtLink to="/terms">Terms of Use</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/privacy">Privacy Policy</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/cookies">Cookie Policy</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/cookies">Site Map</NuxtLink></p>
-                            </li>
-                        </ul>
+                       
                     </div>
+                    <div class="footer-links fl-1">
+                        <!-- Title -->
+                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Patient Materials</NuxtLink>
+                        <!-- Links -->
+                       
+                    </div>
+                    <div class="footer-links fl-1">
+                        <!-- Title -->
+                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">About Us</NuxtLink>
+                        <!-- Links -->
+                       
+                    </div>
+                    <div class="footer-links fl-1">
+                        <!-- Title -->
+                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Contact Us</NuxtLink>
+                        <!-- Links -->
+                       
+                    </div>
+                    
                 </div>
+                   
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER NEWSLETTER FORM -->
                 <div class="col-sm-10 col-md-8 col-lg-4 col-xl-3">
@@ -108,8 +81,9 @@
                 <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
-                        <div class="footer-copyright">
-                            <p class="p-sm">&copy; 2023 Martex. <span>All Rights Reserved</span></p>
+                        <div >
+                            <span class="p-sm flex items-center justify-center mx-auto text-center gap-1">&copy; 2024 <nuxt-link class="cursor-pointer" target="_blank" to="https://www.skylink-eg.com/">
+                                <img class="rounded w-40" src="https://www.skylink-eg.com/images/logo.png" alt=""></nuxt-link>  <span>All Rights Reserved</span> </span>
                         </div>
                     </div>
                     <!-- FOOTER SOCIALS -->
@@ -138,3 +112,8 @@
         <FooterGoToTop />
     </footer>
 </template>
+<script setup>
+const scrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+</script>
