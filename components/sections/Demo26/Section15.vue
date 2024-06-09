@@ -7,7 +7,7 @@
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-6">
                             <div class="img-block left-column wow fadeInRight">
-                                <img class="img-fluid" src="/assets/images/child.png" alt="content-image" />
+                                <img class="img-fluid" src="/assets/images/Child.png" alt="content-image" />
                             </div>
                         </div>
                         <!-- TEXT BLOCK -->
