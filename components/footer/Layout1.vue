@@ -22,8 +22,8 @@
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
                         <div >
-                            <span class="p-sm flex items-center justify-center mx-auto text-center gap-1">&copy; 2024 <nuxt-link class="cursor-pointer" target="_blank" to="https://www.skylink-eg.com/">
-                                <img class="rounded w-40" src="https://www.skylink-eg.com/images/logo.png" alt=""></nuxt-link>  <span>All Rights Reserved</span> </span>
+                            <span class="p-sm flex items-center justify-center mx-auto text-center gap-1"><span>All Rights Reserved</span>  <nuxt-link class="cursor-pointer" target="_blank" to="https://www.skylink-eg.com/">
+                                <img class="rounded w-24" src="https://www.skylink-eg.com/images/logo.png" alt=""></nuxt-link>  &copy; 2024 </span>
                         </div>
                     </div>
                     <!-- FOOTER SOCIALS -->
