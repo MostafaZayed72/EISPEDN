@@ -19,7 +19,7 @@
                         <!-- END BANNER-13 TEXT -->
                         <!-- BANNER-13 IMAGE -->
                         <div class="col-md-5">
-                            <div class="banner-13-img text-center">
+                            <div class="text-center">
                                 <img class="img-fluid" src="/assets/images/img-04.png" alt="banner-image" />
                             </div>
                         </div>

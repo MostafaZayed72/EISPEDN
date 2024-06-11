@@ -7,7 +7,7 @@
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-6">
                             <div class="img-block left-column wow fadeInRight">
-                                <img class="img-fluid" src="/assets/images/Logo-Circle.png" alt="content-image" />
+                                <img class="img-fluid" src="/assets/images/EISPEDN-EN-Logo.png" alt="content-image" />
                             </div>
                         </div>
                         <!-- TEXT BLOCK -->
@@ -15,7 +15,7 @@
                             <div class="txt-block right-column wow fadeInLeft">
                                 <!-- Section ID -->
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">What is EISPEDN?</h2>
+                                <h2 class="s-46 w-700">What is EISPEDN stands for?</h2>
                                 <!-- Text -->
                                 <p>EISPEDN is an acronym that stands for: Egyptian Institution of Scientific, Pediatrics, Diabetes, Endocrinology and Nutrition
 It is a non profit non-govenmental institution established in 2025. 

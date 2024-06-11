@@ -13,14 +13,7 @@
                         <!-- HERO QUICK FORM -->
                         <form name="quickform" class="quick-form form-shadow form-half mt-35">
                             <!-- Form Inputs -->
-                            <div class="input-group">
-                                <input type="email" name="email" class="form-control email r-06"
-                                    placeholder="Your email address" autocomplete="off" required />
-                                <span class="input-group-btn form-btn">
-                                    <button type="submit" class="btn r-04 text-white submit" style="background-color: #c9341d">Get
-                                        Started</button>
-                                </span>
-                            </div>
+                           
                             <!-- Form Message -->
                             <div class="quick-form-msg"><span class="loading"></span></div>
                         </form>

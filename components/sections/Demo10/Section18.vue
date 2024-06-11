@@ -20,7 +20,7 @@
                         <!-- BANNER-13 IMAGE -->
                         <div class="col-md-5">
                             <div class="banner-13-img text-center">
-                                <img class="img-fluid" src="/assets/images/img-04.png" alt="banner-image" />
+                                <img class="img-fluid" src="/assets/images/bg-05.jpg" alt="banner-image" />
                             </div>
                         </div>
                     </div>

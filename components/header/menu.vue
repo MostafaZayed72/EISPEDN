@@ -3,11 +3,11 @@
         <div class="wsmainwp clearfix">
             <!-- HEADER BLACK LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-black"><img src="/assets/images/EISPEDN-EN-Logo.png" alt="logo" /></NuxtLink>
+                <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-new.png" alt="logo" /></NuxtLink>
             </div>
             <!-- HEADER WHITE LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-white"><img src="/assets/images/EISPEDN-EN-Logo.png" alt="logo" /></NuxtLink>
+                <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-new.png" alt="logo" /></NuxtLink>
             </div>
             <!-- MAIN MENU -->
             <nav class="wsmenu clearfix">
@@ -22,7 +22,7 @@
                     <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Activities</NuxtLink></li>
                     <!-- MEGAMENU -->
                     <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Gallery</NuxtLink></li>
-                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Patient Materials</NuxtLink></li>
+                    <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Patient Activities</NuxtLink></li>
                     <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">About Us</NuxtLink></li>
                     <li class="nl-simple" aria-haspopup="true"><NuxtLink to="/about" class="h-link hover:bg-blue-700 rounded">Contact Us</NuxtLink></li>
                    

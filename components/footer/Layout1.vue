@@ -4,73 +4,13 @@
             <!-- FOOTER CONTENT -->
             <div class="row">
                 <!-- FOOTER LOGO -->
-                <div class="col-xl-3">
-                    <div class="footer-info">
-                        <img class="footer-logo" src="/assets/images/EISPEDN-EN-Logo.png" alt="footer-logo" />
-                    </div>
-                </div>
+                
                 <!-- FOOTER LINKS -->
-                <div class="flex flex-col md:flex-row justify-between">
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="/"  class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 " @click="scrollToTop()">Home</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Activities</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Gallery</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Patient Materials</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">About Us</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    <div class="footer-links fl-1">
-                        <!-- Title -->
-                        <NuxtLink to="" class="s-17 px-4 py-2 rounded text-white cursor-pointer bg-blue-500 hover:bg-blue-300 ">Contact Us</NuxtLink>
-                        <!-- Links -->
-                       
-                    </div>
-                    
-                </div>
+                
                    
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER NEWSLETTER FORM -->
-                <div class="col-sm-10 col-md-8 col-lg-4 col-xl-3">
-                    <div class="footer-form">
-                        <!-- Title -->
-                        <h6 class="s-17 w-700">Follow the Best</h6>
-                        <!-- Newsletter Form Input -->
-                        <form class="newsletter-form">
-                            <div class="input-group r-06">
-                                <input type="email" class="form-control" placeholder="Email Address" required id="s-email" />
-                                <span class="input-group-btn ico-15">
-                                    <button type="submit" class="btn color--theme">
-                                        <span class="flaticon-right-arrow-1"></span>
-                                    </button>
-                                </span>
-                            </div>
-                            <!-- Newsletter Form Notification -->
-                            <label for="s-email" class="form-notification"></label>
-                        </form>
-                    </div>
-                </div>
+               
                 <!-- END FOOTER NEWSLETTER FORM -->
             </div>
             <!-- END FOOTER CONTENT -->
